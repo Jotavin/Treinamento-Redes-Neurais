@@ -1,6 +1,6 @@
 # Projeto Final - Ciclo 2: Treinamento de Redes Neurais
 
-### Grupo 2
+### Grupo 4
 
 Este projeto foi desenvolvido como parte do ciclo 2 de nossa formação, onde treinamos e comparamos dois modelos de redes neurais para dados tabulares:
 
